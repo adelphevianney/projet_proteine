@@ -1,0 +1,11 @@
+{
+  "name": "Protéine circulaire",
+  "short_name": "Protéine",
+  "description": "Les déchets agricoles deviennent l'aliment de nos élevages",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f4ee",
+  "theme_color": "#1f6f43",
+  "lang": "fr",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
